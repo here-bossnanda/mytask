@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "watch men",
+      "category": "Movie"
+    },
+    {
+      "title": "Beli sepatu",
+      "category": "Shopping",
+      "id": 2
+    },
+    {
+      "title": "oncakweb",
+      "category": "Workout",
+      "id": 3
+    }
+  ]
+}
